@@ -1,0 +1,89 @@
+html{
+  font-family:"Lato",sans-serif;
+  font-size:112.5%;
+  -webkit-font-smoothing:antialiased;
+}
+
+.bg-blue2{
+  background-color: #3498db;
+}
+
+.hr{
+  height: 2px;
+  background-color: #323232;
+  width: 130px;
+  margin-bottom:40px;
+
+}
+.messaga{
+  height: 125%;
+}
+
+.pr{
+  position: relative;
+  height: 150px;
+  width: 150px;
+}
+.pro{
+  position: relative;
+  height: 239px;
+  width: 300px;
+}
+.pro:hover{
+  top: -8px;
+  transition: all ease 0.2s;
+}
+.pr:hover{
+  top: -4px;
+  transition: all ease 0.2s;
+}
+
+.skills{
+  background-image: url("https://www.mosseab-chakrani.com/assets/images/skills.png");
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  top: 0;
+}
+.projets{
+   background-image: url("");
+}
+
+.html{
+  background-repeat: no-repeat;
+  background-position: 0 0;
+}
+.css{
+  background-repeat: no-repeat;
+  background-position: -150px 0;
+}
+.js{
+  background-repeat: no-repeat;
+  background-position: -300px 0;
+}
+
+
+.bs{
+  background-repeat: no-repeat;
+  background-position: -450px 0;
+}
+.sass{
+  background-repeat: no-repeat;
+  background-position: -900px 0;
+}
+.wp{
+  background-repeat: no-repeat;
+  background-position: -600px 0;
+}
+
+h4.titra{
+  padding: 9px;
+  font-family: 'Lato', sans-serif;
+  font-size: 11px;
+  font-weight:700;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #454553;
+  text-align: center;
+
+}

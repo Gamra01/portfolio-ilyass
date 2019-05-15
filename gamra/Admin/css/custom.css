@@ -1,0 +1,93 @@
+body{
+  background:lightgrey;
+}
+.section.zirx{
+  margin-left:250px;
+  margin-right:450px;
+  background: white;
+}
+.section.container{
+  background: white;
+}
+
+.pic img {
+  position: relative;
+  border-radius: 50%;
+  height: 180px;
+  width: 180px;
+  padding: 0;
+  margin: 0;
+  margin-left: 0px;
+  border: 15px solid transparent;
+  z-index: 9999;
+  -webkit-transition: all .3s ease-out;
+  transition: all .3s ease-out;
+}
+.pr{
+  position: relative;
+  height: 150px;
+  width: 150px;
+}
+
+
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+
+.skills{
+  background-image: url("https://www.mosseab-chakrani.com/assets/images/skills.png");
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  top: 0;
+}
+.html{
+  background-repeat: no-repeat;
+  background-position: 0 0;
+}
+.css{
+  background-repeat: no-repeat;
+  background-position: -150px 0;
+}
+.js{
+  background-repeat: no-repeat;
+  background-position: -300px 0;
+}
+
+
+.bs{
+  background-repeat: no-repeat;
+  background-position: -450px 0;
+}
+.sass{
+  background-repeat: no-repeat;
+  background-position: -900px 0;
+}
+.wp{
+  background-repeat: no-repeat;
+  background-position: -600px 0;
+}
