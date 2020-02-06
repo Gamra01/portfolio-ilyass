@@ -1,3 +1,1 @@
-# on this project i was inspired by creative portfolio , i built this website by using : ui kit, popperjs , tailwindcss,... have fun with this project and you will find everything you need inside , and if you need something feel free to contact me on facebook : ilyass gamra
-
-# on the folder you will find that css folder has css files and js has javascript files, and you will see that i have an admin folder which have admin login, and admin page with more css files ....
+# Portfolio 2019
